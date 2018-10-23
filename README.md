@@ -1,6 +1,6 @@
 # react-summit-2018-NG
 
-PS: This is the accompanying codebase as used to demonstrate my talk on `React + Typescript: What, Why and How` in the last [React Summit 2018 NG](http://react-summit.com). Link to slides here: [Slides](https://docs.google.com/presentation/d/14lUqSfE6131aEzhtm2rK1eH2gCz4kP0gVWPYV1BQUVg/edit#slide=id.p2)
+**PS:** This is the accompanying codebase used to demonstrate my talk on `React + Typescript: What, Why and How` in the last [React Summit 2018 NG](http://react-summit.com). Link to slides here: [Slides](https://docs.google.com/presentation/d/14lUqSfE6131aEzhtm2rK1eH2gCz4kP0gVWPYV1BQUVg/edit#slide=id.p2)
 
 Typescript provides strong type checking that allows devs to build apps with a lot more confidence that their components are setup to receive the precise data they need.
 
