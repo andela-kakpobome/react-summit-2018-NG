@@ -23,7 +23,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
-        <Profile name={this.state.name}/>
+        <Profile { ...this.state } />
       </div>
     );
   }
